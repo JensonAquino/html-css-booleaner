@@ -1,2 +1,33 @@
-.subtitles{color: #28bdbd;}
-.evidenziati{background-color: yellow;}
+.subtitles {
+    color: #28bdbd;
+}
+
+.evidenziati {
+    background-color: yellow;
+}
+
+.wb-zone {
+    background-color: aquamarine;
+}
+
+.table-title {
+    background-color: blue;
+}
+
+.grey {
+    color: grey;
+}
+
+.background-1 {
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    width: 150px;
+    height: 100px;
+}
+
+.background-2 {
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 150px;
+    height: 100px;
+}
