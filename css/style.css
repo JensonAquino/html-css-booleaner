@@ -1,33 +1,48 @@
 .subtitles {
     color: #28bdbd;
 }
-
+/* pati evidenziate in giallo sulle sezzioni */
 .evidenziati {
     background-color: yellow;
 }
-
+/* parti della tabella in azzurro */
 .wb-zone {
     background-color: aquamarine;
 }
-
+/* titoli della tabella */
 .table-title {
+    color: white;
     background-color: blue;
 }
-
+/* parti in grigio */
 .grey {
     color: grey;
 }
-
+/* imaggini del footer */
 .background-1 {
+    font-size: larger;
     color: white;
     background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+
+.background-2 {
+    font-size: larger;
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+}
+/* cornice iniziale */
+.main-img {
     width: 150px;
     height: 100px;
 }
 
-.background-2 {
-    color: white;
-    background-image: url(../img/graph.jpg);
-    width: 150px;
-    height: 100px;
+.pattern {
+    background-color: #3e9191;
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    background-repeat: repeat-x;
 }
